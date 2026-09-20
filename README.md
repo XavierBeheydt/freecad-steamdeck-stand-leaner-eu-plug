@@ -12,9 +12,9 @@ Designed in [FreeCAD](https://www.freecad.org/) (1.1).
 
 | What | Path |
 | --- | --- |
-| Print-ready mesh (3MF, millimetres) | [`exports/steamdeck-stand-leaner-eu-plug-Support.3mf`](exports/steamdeck-stand-leaner-eu-plug-Support.3mf) |
 | FreeCAD source model | [`cad/steamdeck-stand-leaner-eu-plug.FCStd`](cad/steamdeck-stand-leaner-eu-plug.FCStd) |
 | Reference photo of the original support | [`pics/original-steam-deck-support.jpg`](pics/original-steam-deck-support.jpg) |
+| Print-ready mesh (3MF, millimetres) | [`exports/steamdeck-stand-leaner-eu-plug-Support.3mf`](exports/steamdeck-stand-leaner-eu-plug-Support.3mf) |
 
 ## Dimensions
 
