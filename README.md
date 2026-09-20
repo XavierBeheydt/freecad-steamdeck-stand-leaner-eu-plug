@@ -1,5 +1,9 @@
 # Steam Deck leaning stand with EU plug slot
 
+![The stand modelled in FreeCAD, showing the recess for the EU power adapter](pics/freecad-model-view.png)
+
+*The stand in FreeCAD (Part Design workbench): the `Support` group with the recess cut for the EU power adapter.*
+
 A 3D-printable stand for the Steam Deck, sized to match the support that comes with the original console carrying case, with a built-in recess for the EU power adapter (wall plug).
 
 Designed in [FreeCAD](https://www.freecad.org/) (1.1).
@@ -13,12 +17,13 @@ Designed in [FreeCAD](https://www.freecad.org/) (1.1).
 | What | Path |
 | --- | --- |
 | FreeCAD source model | [`cad/steamdeck-stand-leaner-eu-plug.FCStd`](cad/steamdeck-stand-leaner-eu-plug.FCStd) |
+| Screenshot of the model in FreeCAD | [`pics/freecad-model-view.png`](pics/freecad-model-view.png) |
 | Reference photo of the original support | [`pics/original-steam-deck-support.jpg`](pics/original-steam-deck-support.jpg) |
 | Print-ready mesh (3MF, millimetres) | [`exports/steamdeck-stand-leaner-eu-plug-Support.3mf`](exports/steamdeck-stand-leaner-eu-plug-Support.3mf) |
 
 ## Dimensions
 
-Overall size of the exported part: **180 × 70 × 35.83 mm** (X × Y × Z).
+Overall size of the exported part: **178.7 × 68.7 × 35.83 mm** (X × Y × Z).
 
 ## Printing
 
