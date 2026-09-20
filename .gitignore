@@ -1,0 +1,7 @@
+# FreeCAD automatic backups
+*.FCBak
+*.FCStd1
+
+# Third-party reference model, not redistributed
+exports/*.step
+exports/*.stp
