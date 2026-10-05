@@ -1,7 +1,18 @@
-# FreeCAD automatic backups
+# FreeCAD backups
 *.FCBak
 *.FCStd1
+*.FCStd2
 
 # Third-party reference model, not redistributed
 exports/*.step
 exports/*.stp
+
+# Printables listing draft (temporary)
+PRINTABLES.md
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Others
+backup/
